@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abed Abo Ghaitha</h1>
-<h3 align="center">A beginner in coding</h3>
+<h3 align="center">A passionate programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abedag&label=Profile%20views&color=0e75b6&style=flat" alt="abedag" /> </p>
 
